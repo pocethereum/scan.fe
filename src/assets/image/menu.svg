@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="16px" viewBox="0 0 22 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="浏览器-Block" transform="translate(-331.000000, -86.000000)" fill="#00B000">
+            <g id="顶部" transform="translate(0.000000, 70.000000)">
+                <g id="顶部导航">
+                    <path d="M332,16 L352,16 C352.552285,16 353,16.4477153 353,17 C353,17.5522847 352.552285,18 352,18 L332,18 C331.447715,18 331,17.5522847 331,17 C331,16.4477153 331.447715,16 332,16 Z M332,23 L352,23 C352.552285,23 353,23.4477153 353,24 C353,24.5522847 352.552285,25 352,25 L332,25 C331.447715,25 331,24.5522847 331,24 C331,23.4477153 331.447715,23 332,23 Z M332,30 L352,30 C352.552285,30 353,30.4477153 353,31 C353,31.5522847 352.552285,32 352,32 L332,32 C331.447715,32 331,31.5522847 331,31 C331,30.4477153 331.447715,30 332,30 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

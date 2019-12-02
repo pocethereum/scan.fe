@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>POC logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.0006 28.0699 0.0006 28.0699 28.0696 0 28.0696"></polygon>
+    </defs>
+    <g id="EHD-PC挖矿应用V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="资金管理" transform="translate(-50.000000, -15.000000)">
+            <g id="logo备份" transform="translate(50.000000, 14.000000)">
+                <g id="POC-logo" transform="translate(0.000000, 1.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M14.0349,17.7516 L8.2019,14.2766 L14.0349,4.4226 L19.8679,14.2766 L14.0349,17.7516 Z M14.0349,23.6476 L8.2019,15.3296 L14.0349,18.7626 L19.8679,15.3296 L14.0349,23.6476 Z M14.0349,0.0006 C6.2839,0.0006 -0.0001,6.2836 -0.0001,14.0346 C-0.0001,21.7856 6.2839,28.0696 14.0349,28.0696 C21.7859,28.0696 28.0699,21.7856 28.0699,14.0346 C28.0699,6.2836 21.7859,0.0006 14.0349,0.0006 L14.0349,0.0006 Z" id="Fill-1" fill="#00B000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
